@@ -1,8 +1,4 @@
-Chandler Prins - ST10268042
-
 # 🏛️ Municipal Services Web Application
-
-**Repository:** https://github.com/VCNMB-3rd-years/vcnmb-prog7312-2025-poe-chandlerprins
 
 ---
 
